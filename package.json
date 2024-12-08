@@ -1,0 +1,34 @@
+{
+  "name": "gofile-package",
+  "version": "1.0.0",
+  "description": "NPM package for Node.js to use the gofile.io api",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/notauthorisedxd/gofile-package.git"
+  },
+  "keywords": [
+    "gofile",
+    "api",
+    "file-sharing",
+    "nodejs",
+    "upload",
+    "download"
+  ],
+  "author": "notauthorised",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/notauthorisedxd/gofile-package/issues"
+  },
+  "homepage": "https://github.com/notauthorisedxd/gofile-package#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "form-data": "^4.0.1"
+  }
+}
