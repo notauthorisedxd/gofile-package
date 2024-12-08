@@ -1,6 +1,6 @@
 {
   "name": "gofile-package",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NPM package for Node.js to use the gofile.io api",
   "main": "index.js",
   "scripts": {
